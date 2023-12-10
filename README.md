@@ -1,2 +1,2 @@
-# Member-mangement-example
-Member management example
+# 멤버가입및관리 단순예제 
+멤버가입및관리 단순예제
